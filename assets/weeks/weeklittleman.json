@@ -1,0 +1,25 @@
+{
+	"storyName": "Little Man",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "weekonslaught",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"little-man",
+			"little-man",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week Onslaught"
+}

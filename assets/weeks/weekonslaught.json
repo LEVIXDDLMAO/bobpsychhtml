@@ -1,0 +1,43 @@
+{
+	"storyName": "Bob's Onslaught",
+	"hideFreeplay": false,
+	"weekBackground": "trouble",
+	"weekBefore": "weekrun",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"all",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ron",
+			"ron",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"trouble",
+			"gloop-bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"onslaught",
+			"glitched-bob",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Onslaught"
+}

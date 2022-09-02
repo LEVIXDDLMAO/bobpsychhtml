@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BOBBY BOBINO BOBBLE menu asset",
+	"image": "Menu_All",
+	"position": [
+		90,
+		-120
+	],
+	"scale": 1.3,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "Bob Week",
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"all",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sunshine",
+			"bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"withered",
+			"angrybob",
+			[
+				135,
+				135,
+				135
+			]
+		],
+		[
+			"run",
+			"hellbob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Onslaught"
+}
